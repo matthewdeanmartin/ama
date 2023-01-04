@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-My name is Scott Hanselman. I'm [@shanselman](https://twitter.com/shanselman) on Twitter.
+My name is Matthew Martin. I'm [@mistersql](https://twitter.com/mistersql) on Twitter.
 
 I get a lot of questions by email. This way anyone can read the answer!
 
@@ -21,3 +21,6 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+
+### Credits
+This is a fork of Scott Hanselman's idea. I am not him.
